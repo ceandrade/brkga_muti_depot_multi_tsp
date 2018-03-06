@@ -8,7 +8,7 @@
  * Created on : Jun 06, 2012 by andrade
  * Last update: Apr 26, 2014 by andrade
  *
- * This code is released under LICENSE.md
+ * This code is released under LICENSE.md.
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
  * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE

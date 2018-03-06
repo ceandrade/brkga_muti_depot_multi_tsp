@@ -1,4 +1,4 @@
-Biased Random-Key Genetic Algorithm  for the k-Interconnected Multi-Depot
+Biased Random-Key Genetic Algorithm for the k-Interconnected Multi-Depot
 Multi-Traveling Salesmen Problem
 ===============================
 
