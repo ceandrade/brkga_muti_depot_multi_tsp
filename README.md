@@ -103,7 +103,7 @@ USER_DEFINES += -DFULLDEBUG
 Finally, line 37 enables the tuning mode. This mode reads all parameters from
 the command line, ignoring the configuration file entirely (although it must be
 supplied anyway). This capability enables the usage of tuning tools such as
-[irace](https://cran.r-project.org/web/packages/irace){:target="_blank"}.
+<a href="https://cran.r-project.org/web/packages/irace" target="_blank">irace</a>.
 Line 37 is
 ```makefile
 USER_DEFINES += -DTUNING
